@@ -48,10 +48,10 @@ Current assets
 ●	Badge readers
 ●	Legacy system maintenance: end-of-life systems that require human monitoring. 
 
-|# Administrative Controls|
+# Administrative Controls
 Control Name	Control type and explanation
 
-	|Needs to be implemented (X)|	|Priority|
+	Needs to be implemented (X)	Priority
 
 Least Privilege	Preventative: reduces risk by making sure vendors and non-authorized staff only have access to the assets/data they need to do their jobs	X	High
 Disaster recovery plans	Corrective: business continuity to ensure systems are able to run in the event of an incident/there is limited to no loss of productivity downtime/impact to system components, including: computer room environment (air conditioning, power supply, etc.); hardware (servers, employee equipment); connectivity (internal network, wireless); applications (email, electronic data); data and restoration	X	High
@@ -65,7 +65,7 @@ Separation of duties	Preventative; ensure no one has so much access that they ca
 
 # Technical Controls
 Control Name	Control type and explanation
-	Needs to be implemented
+	|Needs to be implemented|
 (X)	Priority
 
 Firewall
