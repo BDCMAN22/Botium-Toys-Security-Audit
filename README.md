@@ -178,4 +178,5 @@ I have realized the importance of conciseness and precision in presenting findin
 Thank you for your attention, and I am available to address any further questions or concerns.
 
 Best regards,
+
 Bredell Mitchell
