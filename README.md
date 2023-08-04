@@ -49,6 +49,7 @@ Current assets
 ●	Vendor access management
 
 ●	Data center hosting services  
+
 ●	Data retention and storage
 
 ●	Badge readers
@@ -62,9 +63,9 @@ Control Name	Control type and explanation
 
 Least Privilege	Preventative: reduces risk by making sure vendors and non-authorized staff only have access to the assets/data they need to do their jobs	X	High
 Disaster recovery plans	Corrective: business continuity to ensure systems are able to run in the event of an incident/there is limited to no loss of productivity downtime/impact to system components, including: computer room environment (air conditioning, power supply, etc.); hardware (servers, employee equipment); connectivity (internal network, wireless); applications (email, electronic data); data and restoration	X	High
-Password policies	Preventative; establish password strength rules to improve security/reduce likelihood of account compromise through brute force or dictionary attack techniques	X	High
+Password policies	Preventative; establish password strength rules to improve security/reduce the likelihood of account compromise through brute force or dictionary attack techniques	X	High
 Access control policies	Preventative; increase confidentiality and integrity of data	X	High
-Account management policies	Preventative; reduce attack surface and limit overall impact from disgruntled/former employees	X	High
+Account management policies	Preventative; reduce the attack surface and limit the overall impact from disgruntled/former employees	X	High
 Separation of duties	Preventative; ensure no one has so much access that they can abuse the system for personal gain	X	High
 
 
@@ -76,12 +77,12 @@ Control Name	Control type and explanation
 (X)	Priority
 
 Firewall
-	Preventative; firewalls are already in place to filter unwanted/malicious traffic from entering internal network	NA	NA
-Intrusion Detection System (IDS)	Detective; allows IT team to identify possible intrusions (e.g., anomalous traffic) quickly	X	High
+	Preventative; firewalls are already in place to filter unwanted/malicious traffic from entering the internal network	NA	NA
+Intrusion Detection System (IDS)	Detective; allows the IT team to identify possible intrusions (e.g., anomalous traffic) quickly	X	High
 Encryption
 	Deterrent; makes confidential information/data more secure (e.g., website payment transactions)	X	High
 Backups	Corrective; supports ongoing productivity in the case of an event; aligns to the disaster recovery plan	X	High
-Password management system	Corrective; password recovery, reset, lock out notifications	X	High
+Password management system	Corrective; password recovery, reset, lockout notifications	X	High
 Antivirus (AV) software	Corrective; detect and quarantine known threats	X	High
 Manual monitoring, maintenance, and intervention	Preventative/corrective; required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities	X	High
 
