@@ -114,7 +114,7 @@ To ensure data safety and compliance, Botium Toys needs to adhere to the followi
 2. Payment Card Industry Data Security Standard (PCI DSS): Adherence to PCI DSS is crucial for the secure handling of credit card information, online payments, and international transactions. Non-compliance can result in severe consequences, such as monetary fines, forensic audits, payment brand restrictions, and damage to brand reputation.
 3. System and Organizations Controls (SOC1/SOC2): Implementation of appropriate user access policies and data safety measures is essential to mitigate risk and comply with these standards, which evaluate the effectiveness of internal controls.
 
-Stakeholder Memorandum:
+# Stakeholder Memorandum:
 To: IT Manager, Stakeholders
 From: Chris Jabbour
 Date: 06/09/2023
