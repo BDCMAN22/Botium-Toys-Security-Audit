@@ -19,7 +19,7 @@ Internal Security Audit Workflow:
 
 
 
-###The internal security audit comprises two distinct parts, each with its own set of steps to follow:
+### The internal security audit comprises two distinct parts, each with its own set of steps to follow:
 
 Part 1:
 1. Analyze the audit scope, audit goals, and risk assessment.
