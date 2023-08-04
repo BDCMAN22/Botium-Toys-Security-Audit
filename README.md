@@ -5,7 +5,7 @@ As part of my cybersecurity portfolio and Google's Cybersecurity Professional Ce
 Scenario:
 Botium Toys is a small U.S. toy company with a growing online presence, serving customers both domestically and internationally. The company's IT department is facing increasing pressure to support the expanding online market. The IT manager recognized the need for an internal IT audit to ensure business continuity, compliance, and security as the company grows. The audit was seen as an opportunity to strengthen the company's infrastructure, identify potential risks and threats to critical assets, and ensure compliance with online payment and European Union (E.U.) business regulations.
 
-Audit Goals:
+# Audit Goals:
 The key goals of the internal IT audit for Botium Toys were:
 
 1. Adherence to the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF).
@@ -19,7 +19,7 @@ Internal Security Audit Workflow:
 
 
 
-The internal security audit comprises two distinct parts, each with its own set of steps to follow:
+# The internal security audit comprises two distinct parts, each with its own set of steps to follow:
 
 Part 1:
 1. Analyze the audit scope, audit goals, and risk assessment.
@@ -36,7 +36,7 @@ Part 2:
 4. Prepare a concise format and communicate the findings and recommendations to stakeholders.
 Controls assessment
 Current assets
-Assets managed by the IT Department include: 
+# Assets managed by the IT Department include: 
 ●	On-premises equipment for in-office business needs  
 ●	Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
 ●	Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management
@@ -48,7 +48,7 @@ Assets managed by the IT Department include:
 ●	Badge readers
 ●	Legacy system maintenance: end-of-life systems that require human monitoring. 
 
-Administrative Controls
+# Administrative Controls
 Control Name	Control type and explanation
 
 	Needs to be implemented (X)	Priority
@@ -63,7 +63,7 @@ Separation of duties	Preventative; ensure no one has so much access that they ca
 
 
 
-Technical Controls
+# Technical Controls
 Control Name	Control type and explanation
 	Needs to be implemented
 (X)	Priority
@@ -83,7 +83,7 @@ Manual monitoring, maintenance, and intervention	Preventative/corrective; requir
 
 
 
-Physical Controls
+# Physical Controls
 Control Name	Control type and explanation
 	Needs to be implemented
 (X)	Priority
@@ -97,7 +97,7 @@ Locks	Preventative; physical and digital assets are more secure	X	High
 Fire detection and prevention (fire alarm, sprinkler system, etc.)	Detective/Preventative; detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc.	X	Medium
 
 
-Critical Findings and Recommendations:
+# Critical Findings and Recommendations:
 The audit revealed critical findings that require immediate attention:
 
 1. Development and implementation of controls for the principle of least privilege and separation of duties.
@@ -107,7 +107,7 @@ The audit revealed critical findings that require immediate attention:
 5. Implementation of a password management system, antivirus software, and manual monitoring for legacy systems.
 6. Enhanced physical controls through CCTV surveillance, locks, and locking cabinets.
 
-Compliance Requirements:
+# Compliance Requirements:
 To ensure data safety and compliance, Botium Toys needs to adhere to the following standards:
 
 1. General Data Protection Regulation (GDPR): Compliance with GDPR is necessary for handling the personal data of customers in the European Union and reporting data breaches within 72 hours.
@@ -162,17 +162,17 @@ We suggest considering the following physical controls once critical findings ha
 2. Adequate lighting
 3. Signage indicating alarm service provider for restricted areas
 
-Summary/Recommendations:
+# Summary/Recommendations:
 Addressing the critical findings related to PCI and GDPR compliance is essential, given Botium Toys' acceptance of online payments and expansion into international markets, including the European Union. Utilizing SOC1 and SOC2 guidance to develop policies and procedures will help in adapting the concept of least permissions and achieving compliance.
 
 Additionally, implementing disaster recovery plans and backups will ensure business continuity in the face of potential incidents. Integrating IDS and AV software will aid in intrusion detection and mitigation. Legacy systems requiring manual monitoring and intervention should be closely monitored.
 
 For securing assets at the physical location, implementing locks, CCTV, and a time-controlled safe is highly recommended. Adequate lighting and signage indicating alarm service providers will further enhance the security posture.
 
-Conclusion:
+# Conclusion:
 I hope this comprehensive security audit write-up proves valuable and enlightening. I am open to constructive feedback or suggestions for improvement. It has been a challenging yet rewarding experience, putting my knowledge and skills to the test.
 
-Lessons Learned:
+# Lessons Learned:
 I have realized the importance of conciseness and precision in presenting findings in the stakeholder's memorandum. Additionally, I have improved my ability to explain how the System and Organizations Controls standard relates to various aspects of organizational security and risk assessment beyond financial compliance during the audit process.
 
 Thank you for your attention, and I am available to address any further questions or concerns.
